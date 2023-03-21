@@ -125,6 +125,10 @@
     }
     
     .main3 {
-        height: 600px;
+        height: 400px;
         width: 1192px;
+    }
+    
+    .main4 {
+        height: 512px;
     }
