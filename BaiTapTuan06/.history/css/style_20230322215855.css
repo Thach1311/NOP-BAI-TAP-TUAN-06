@@ -16,7 +16,6 @@
         display: flex;
         align-items: center;
         justify-content: center;
-        margin-right: 20px;
     }
 
     .header__menu {
@@ -91,19 +90,15 @@
     .main1__menu {
         display: flex;
         margin-bottom: 10px;
-        font-size: 17px;
+        font-size: ;
     }
-    .main1__menu-icon{
-        margin-bottom: 15px;
-        width: 1185px;
-    }
+
     .ti-star {
         color: rgb(243, 189, 63);
     }
 
     .main1__menu-icon-text1 {
         font-weight: 900;
-       
     }
 
     .main1__menu-icon-text2 {
@@ -120,27 +115,13 @@
     }
 
     .main1__menu-header {
-        font-size: 28px;
-        margin-bottom: 10px;
-
+        font-size: 25px;
     }
 
-    /* slide */
     .main1__slide {
         display: flex;
-        width: 1180px;
     }
-    .main1__slide-left{
-        margin-right: 10px;
-    }
-    .main1__slide-right{
-        display: flex;
-        flex-wrap: wrap;
-        
-    }
-    .main1__slide-right img {
-        margin: 5px;
-    }
+
     .main2 {
         display: flex;
         width: 1192px;

@@ -16,7 +16,6 @@
         display: flex;
         align-items: center;
         justify-content: center;
-        margin-right: 20px;
     }
 
     .header__menu {
@@ -95,7 +94,7 @@
     }
     .main1__menu-icon{
         margin-bottom: 15px;
-        width: 1185px;
+        width: 1154px;
     }
     .ti-star {
         color: rgb(243, 189, 63);
@@ -128,18 +127,13 @@
     /* slide */
     .main1__slide {
         display: flex;
-        width: 1180px;
+        width: 1186px;
     }
     .main1__slide-left{
-        margin-right: 10px;
+        margin-right: 15px;
     }
     .main1__slide-right{
-        display: flex;
-        flex-wrap: wrap;
-        
-    }
-    .main1__slide-right img {
-        margin: 5px;
+        margin: 10px;
     }
     .main2 {
         display: flex;
