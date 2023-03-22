@@ -191,8 +191,6 @@
         height: 400px;
         width: 1192px;
         margin-top: 30px;
-        border-bottom: 1px solid #d9d9d9;
-        
     }
     .main3__form{
         margin-top: 20px;
@@ -202,7 +200,6 @@
     }
     .main3__form-item{
         margin-bottom: 40px;
-        margin-right: 40px;
     }
     .main4 {
         height: 512px;
