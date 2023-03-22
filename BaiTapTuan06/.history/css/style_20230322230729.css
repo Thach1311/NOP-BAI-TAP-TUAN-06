@@ -208,7 +208,6 @@
     .main4 {
         margin-top: 30px;
         height: 512px;
-        border-bottom: 1px solid #d9d9d9;
     }
 
     .main4__form{
@@ -216,9 +215,7 @@
     }
     .main4__item{
         margin-right: 20px;
-        width: 310px;
-        height: 365px;
-        border: 1px solid #e3e3e3;
+        wi
     }
     .ti-heart{
     
@@ -230,63 +227,27 @@
         text-align: center;
         align-items: center;
         width: 1192px;
-        margin-top: 50px;
     }
 
-    .main5__form {
-    }
+    .main5__form {}
 
-    .main5__form-img {
-        margin-bottom: 30px;
-    }
+    .main5__form-img {}
 
-    .main5__form-title {
-        margin-bottom: 30px;
-    }
+    .main5__form-title {}
 
-    .main5__form-input {
-        margin-bottom: 50px;
-        width: 300px;
-        height: 30px;
-        background-color: #f3f3f3;
+    .main5__form-input {}
+
+    .form-input {}
+
+    .main5__info {
         display: flex;
         justify-content: center;
-        align-items: center;
-        margin-left: 30px;
-        border-top-left-radius: 5px;
-        border-bottom-left-radius: 5px;
-        padding-left: 10px;
     }
 
-    
-    .main5__info {
-        width: 1192px;
-        display: flex;
-        justify-content: space-around;
-    }
+    .main5__info-list {}
 
-    .main5__info-list {
-        display: flex;
-        flex-direction: column;
-        align-items: start;
-        
-    }
-    .main5__info-list h1,p{
-        margin-bottom: 20px;
-    }
-    .main5__info-list h1{
-        font-size: 25px;
-    }
     .footer {
-        margin-left: 150px;
         width: 1192px;
         display: flex;
         justify-content: space-between;
-        margin-top: 50px;
-        margin-bottom: 50px;
-        align-items: center;
-    }
-
-    .footer__app img{
-        margin-right:10px
     }

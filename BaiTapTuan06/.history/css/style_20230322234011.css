@@ -255,7 +255,6 @@
         margin-left: 30px;
         border-top-left-radius: 5px;
         border-bottom-left-radius: 5px;
-        padding-left: 10px;
     }
 
     
@@ -273,9 +272,6 @@
     }
     .main5__info-list h1,p{
         margin-bottom: 20px;
-    }
-    .main5__info-list h1{
-        font-size: 25px;
     }
     .footer {
         margin-left: 150px;
