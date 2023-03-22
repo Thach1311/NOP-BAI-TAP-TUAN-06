@@ -152,17 +152,10 @@
     .main2 {
         display: flex;
         width: 1192px;
-        border-bottom: 1px solid #d9d9d9;
-        padding: 30px;
+        
     }
 
     .main2__left {
-        width: 830px;
-        height: 380px;
-        padding-right: 40px;
-    }
-
-    .main2__right {
         width: 350px;
         height: 390px;
         border: 1px solid #dedede;
@@ -171,6 +164,13 @@
         flex-direction: column;
         justify-content: center;
         align-items: center;
+        padding: 10px;
+    }
+
+    .main2__right {
+        width: 350px;
+        height: 390px;
+        border: 1px solid #dedede;
         padding: 10px;
 
     }
